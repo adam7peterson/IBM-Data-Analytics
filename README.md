@@ -38,7 +38,8 @@ Task 3: Exploratory Data Analysis
 Task 4: Data Visualization
 Task 5: Dashboard Creation
 Task 6: Presentation of Findings
-Stretch Goals
+
+
 Data Description
 Stack Overflow, a popular website for developers, conducted an online survey of software professionals across the world. The survey data was later open sourced by Stack Overflow. The actual data set has around 90,000 responses.
 
@@ -52,8 +53,8 @@ The dataset is available as a .csv file here.
 
 The below table lists the questions asked in the survey and the column under which the response was collected.
 
-View Table
-Tools
+
+Tools:
 python v3.12.2
 pandas for managing the data.
 numpy for mathematical operations.
@@ -63,29 +64,36 @@ folium for geospatial data visualization such as choropleth maps.
 plotly for interactive plotting tools.
 Google Looker Studio for dashboards.
 IBM Cognos Analytics for dashboards.
+
 Deliverables
 Task 1: Data Collection
  Collecting Data Using APIs
  Collecting Data Using Web Scraping
  Exploring Data
+
 Task 2: Data Wrangling
  Finding Missing Values
  Determine Missing Values
  Finding Duplicates
  Removing Duplicates
  Normalizing Data
+
 Task 3: Exploratory Data Analysis
  Distribution
  Outliers
  Correlation
+
 Task 4: Data Visualization
  Visualizing Distribution of Data
  Relationship
  Composition
  Comparison
+
 Task 5: Dashboard Creation
  Dashboards
+
 Task 6: Presentation of Findings
  Final Presentation
+
 Stretch Goals
  Create Dashboard in Google Looker or Tableau
