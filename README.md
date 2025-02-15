@@ -1,11 +1,12 @@
 
+![68747470733a2f2f686f77746f6c6561726e6d616368696e656c6561726e696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30342f636f7572736572615f6d616368696e655f6c6561726e696e675f69626d2e706e673f7261773d74727565](https://github.com/user-attachments/assets/53721a89-bbba-4de8-a102-39a0c0077a7b)
 
-IBM and Coursera Logos
+
 
 Data Visualization with Python
-This is the Capstone Project for Course 9, IBM Data Analyst Capstone Project. Part of IBM's Data Analyst Professional Certificate from Coursera. Available here: 
+This is the Capstone Project for Course 9, IBM Data Analyst Capstone Project. Part of IBM's Data Analyst Professional Certificate from Coursera.
 
-We will take on the role of a Data Analyst with a global IT and Business services firm. In this role, we will be analyzing several datasets to help identify trends for emerging technologies. We have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for its expertise in IT solutions and its team of highly experienced IT consultants. To keep pace with changing technologies and remain competitive, our organization regularly analyzes data to help identify future skill requirements.
+I will take on the role of a Data Analyst with a global IT and Business services firm. In this role, we will be analyzing several datasets to help identify trends for emerging technologies. We have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for its expertise in IT solutions and its team of highly experienced IT consultants. To keep pace with changing technologies and remain competitive, our organization regularly analyzes data to help identify future skill requirements.
 
 As a Data Analyst, we will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills.
 
@@ -25,7 +26,7 @@ Task 5
 For task 5, we will employ Cognos/Google Looker Studio to create interactive dashboards to help analyze and present the data dynamically.
 
 Task 6
-For the final task, we will use our storytelling skills to provide a narrative and present the findings of our analysis. Full presentation link: https://www.canva.com/design/DAGCO32O1hs/i6ag-UXsZqQ8_E5A-mI9bA/edit?utm_content=DAGCO32O1hs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+For the final task, we will use our storytelling skills to provide a narrative and present the findings of our analysis.
 
 Table of Contents
 Data Description
